@@ -238,5 +238,3 @@ Terraform deleted all deployed resources from Azure.
 ## Lab Outcome
 
 This lab demonstrated how to automate Azure infrastructure deployment using Terraform and apply Infrastructure as Code principles for consistent and repeatable cloud deployments.
-
-Author: Glen Page
