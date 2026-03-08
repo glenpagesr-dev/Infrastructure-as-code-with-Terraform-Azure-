@@ -14,7 +14,7 @@ The lab walks through the Terraform workflow: **Initialize → Plan → Apply �
 
 ## Architecture Diagram
 
-![Terraform Azure Architecture](images/terraform_architecture_3x.png)
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/IAC%20Terraform.png)
 
 ---
 
