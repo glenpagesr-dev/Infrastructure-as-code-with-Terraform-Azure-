@@ -1,6 +1,11 @@
 
 # Infrastructure as Code with Terraform (Azure)
 
+**Author:** Glen Page  
+**Estimated Time:** 45 Minutes  
+**Difficulty:** Intermediate  
+
+
 ## Overview
 
 This lab demonstrates how to deploy cloud infrastructure using **Infrastructure as Code (IaC)** with Terraform in Microsoft Azure. Instead of manually creating resources through the Azure Portal, Terraform scripts are used to automate the deployment of infrastructure components.
