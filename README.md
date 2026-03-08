@@ -12,6 +12,10 @@ This lab demonstrates how to deploy cloud infrastructure using **Infrastructure 
 
 The lab walks through the Terraform workflow: **Initialize → Plan → Apply → Destroy**, and deploys a Resource Group, Virtual Network, Subnet and Network Security Group using Azure Cloud Shell. 🚀
 
+## Architecture Diagram
+
+![Terraform Azure Architecture](images/terraform_architecture_3x.png)
+
 ---
 
 ## Environment Setup
