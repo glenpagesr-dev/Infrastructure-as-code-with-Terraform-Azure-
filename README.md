@@ -179,6 +179,8 @@ Terraform created all resources automatically in Azure.
 
 ### 8. Verify Deployment
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/Verify%20deployment.png)
+
 Verified resources in the Azure Portal.
 
 Steps:
