@@ -75,6 +75,8 @@ code main.tf
 
 ### 4. Configure the Terraform Script
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/Terraform%20Script.png)
+
 Added the Terraform configuration to define Azure resources.
 
 
