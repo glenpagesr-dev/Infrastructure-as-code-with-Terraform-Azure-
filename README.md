@@ -1,4 +1,4 @@
-# 🎥![Watch Me Deploy Infrastructure with Terraform](https://www.loom.com/share/66b4aeae387a4234b4f8d1d087d7f0dd)
+# 🎥[Watch Me Deploy Infrastructure with Terraform](https://www.loom.com/share/66b4aeae387a4234b4f8d1d087d7f0dd)
 # Infrastructure as Code with Terraform (Azure)
 
 **Author:** Glen Page  
