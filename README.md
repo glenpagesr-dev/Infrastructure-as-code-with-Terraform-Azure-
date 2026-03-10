@@ -63,6 +63,8 @@ cd terraform-lab
 
 ### 3. Create Terraform Configuration File
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/Terraform%20config.png)
+
 Opened the built-in editor to create the Terraform configuration file.
 
 
