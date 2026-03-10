@@ -198,6 +198,8 @@ Confirmed the following resources were created:
 
 ### 9. Modify Infrastructure (Add Network Security Group)
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/network%20security%20group.png)
+
 Reopened the Terraform configuration file.
 
 
