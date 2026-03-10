@@ -48,6 +48,8 @@ The lab walks through the Terraform workflow: **Initialize → Plan → Apply �
 
 ### 2. Create a Working Directory
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/create%20working%20directory.png)
+
 Created a folder for the Terraform project and navigated into it.
 
 
