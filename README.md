@@ -119,6 +119,8 @@ Saved the file using **Ctrl + S** and closed the editor with **Ctrl + Q**.
 
 ### 5. Initialize Terraform
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/initialize%20terraform.png)
+
 Initialized the Terraform working directory and downloaded the Azure provider.
 
 
