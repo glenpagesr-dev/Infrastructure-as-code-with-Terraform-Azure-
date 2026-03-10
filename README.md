@@ -159,6 +159,8 @@ Resources planned for creation:
 
 ### 7. Deploy Infrastructure
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/Deploy%20infrastructure.png)
+
 Executed the Terraform deployment.
 
 
