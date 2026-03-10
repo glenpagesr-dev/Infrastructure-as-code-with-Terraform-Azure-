@@ -39,6 +39,8 @@ The lab walks through the Terraform workflow: **Initialize → Plan → Apply �
 
 ### 1. Open Azure Cloud Shell
 
+![alt image](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-/blob/main/open%20azure%20Cloud%20Shell.png)
+
 - Logged into the **Azure Portal**.
 - Clicked the **Cloud Shell icon (>_)** in the top-right menu.
 - Selected **Bash** environment.
